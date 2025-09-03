@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+streamlit
+nltk
+sentence-transformers
+matplotlib
+seaborn
+rapidfuzz
+
